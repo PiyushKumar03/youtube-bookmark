@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/cred-guild/static/css/main.cd21efa8.css",
+    "main.js": "/cred-guild/static/js/main.1972801d.js",
+    "static/media/hero-background-image.png": "/cred-guild/static/media/hero-background-image.c5069e30f05ce5cb48ff.png",
+    "index.html": "/cred-guild/index.html",
+    "main.cd21efa8.css.map": "/cred-guild/static/css/main.cd21efa8.css.map",
+    "main.1972801d.js.map": "/cred-guild/static/js/main.1972801d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd21efa8.css",
+    "static/js/main.1972801d.js"
+  ]
+}
